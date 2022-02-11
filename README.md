@@ -1,4 +1,5 @@
-# Automation_Reply_Email_via_Google_Form_with_Google_Script
+**Flow inject code.gs**
+
 To make your form more responsive with user by send automaticly an email if the user submit the form
 
 **First** please create google forms, and go to "setting" -> "Responses" -> Allow "Collect email addresses" like this bellow
