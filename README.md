@@ -13,11 +13,10 @@ To make your form more responsive with user by send automaticly an email if the 
 
 **Fourth** click "current project's triggers" for make an automation based on trigger
 
-![Screen Shot 2022-02-11 at 21 43 51](https://user-images.githubusercontent.com/97831705/153612275-060effa6-eaa5-41f8-b439-255fe6087
+![Screen Shot 2022-02-11 at 21 43 51](https://user-images.githubusercontent.com/97831705/153612275-060effa6-eaa5-41f8-b439-255fe6087566.png)
 
 **Sixth** select trigger based on your event type
 
 ![Screen Shot 2022-02-11 at 21 45 41](https://user-images.githubusercontent.com/97831705/153612610-a0ed0b25-631c-4b88-a09a-ace014493f87.png)
-566.png)
 
 HAVE FUN!!!
